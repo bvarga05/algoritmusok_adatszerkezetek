@@ -18,7 +18,7 @@
   2. Ürítse ki teljesen bármelyik kancsót.
   3. Öntsön vizet egyik kancsóból a másikba, amíg az egyik kancsó ki nem ürül, vagy a másik megtelik.
 
-**3. Memoizáció:**
+**3. Memorizáció:**
 
   - A rekurzív függvény egy térképet (***memo***) használ az adott állapot eléréséhez szükséges lépések minimális számának tárolására (***current_a***, ***current_b***), hogy elkerülje a redundáns számításokat.
 
